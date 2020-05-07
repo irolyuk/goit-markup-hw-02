@@ -1,0 +1,173 @@
+/* Палитра */
+/* Основной цвет текста #212121 */
+/* Основной цвет фона #FFFFFF */
+/* Дополнительный цвет текста #757575 */
+/* Акцент #2196F3 */
+/* Дополнительный цвет фона #F5F4FA */
+/* Цвет фона футера #2F303A */
+
+body {
+  color: #212121;
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.02em;
+}
+
+ul {
+  list-style: none;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+/* Выделение ссылки */
+
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+
+/* Логотип */
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.2;
+}
+
+.logo-accent {
+  color: #2196f3;
+}
+
+/* Навигация */
+
+.navigation {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+
+/* Контакты */
+
+.contact {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+
+/* Герой */
+
+.solutions {
+  color: #ffffff;
+  background-color: #000000;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* Наши качества */
+
+.qualities-list > h3 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.qualities-list > p {
+  color: #757575;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+
+/* Чем мы занимаемся */
+
+.we-doing-list {
+  color: #ffffff;
+  background-color: black;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/* Наша команда */
+
+.team-section {
+  background: #f5f4fa;
+}
+
+.team-list > h3 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.team-list > p {
+  color: #757575;
+  font-size: 16px;
+  line-height: 1.18px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+/* Футер */
+
+.footer {
+  background-color: #2f303a;
+}
+
+.footer .logo {
+  color: #ffffff;
+}
+.footer-adress .street {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+
+.footer-adress > a {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer > b {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.footer .copyright {
+  font-size: 12px;
+  line-height: 2;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.4);
+}
