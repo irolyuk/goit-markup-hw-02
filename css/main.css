@@ -82,7 +82,7 @@ h2 {
 
 /* Наши качества */
 
-.qualities-list > h3 {
+.qualities-list-item > h3 {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -90,7 +90,7 @@ h2 {
   text-transform: uppercase;
 }
 
-.qualities-list > p {
+.qualities-list-item > p {
   color: #757575;
   font-size: 14px;
   line-height: 1.71;
@@ -99,7 +99,7 @@ h2 {
 
 /* Чем мы занимаемся */
 
-.we-doing-list {
+.we-doing-list-item {
   color: #ffffff;
   background-color: black;
   font-weight: 700;
@@ -116,7 +116,7 @@ h2 {
   background: #f5f4fa;
 }
 
-.team-list > h3 {
+.team-list-item > h3 {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
@@ -124,7 +124,7 @@ h2 {
   letter-spacing: 0.03em;
 }
 
-.team-list > p {
+.team-list-item > p {
   color: #757575;
   font-size: 16px;
   line-height: 1.18px;
