@@ -171,3 +171,33 @@ h2 {
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.4);
 }
+
+.buttons {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.portfolio-list .title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+}
+
+.portfolio-list .type {
+  color: #757575;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+}
+
+.portfolio-list .text {
+  color: #ffffff;
+  background-color: black;
+  font-size: 18px;
+  line-height: 1.56;
+  letter-spacing: 0.03em;
+}
